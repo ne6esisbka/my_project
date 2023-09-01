@@ -1,0 +1,72 @@
+[33mcommit 09057ccf101a7cb56ea711a46f2057c926e96ac0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: AlekseyBogachev <aleksey.bogachev2504@gmail.com>
+Date:   Tue Aug 29 20:25:45 2023 +0300
+
+    add Calculator
+
+[33mcommit c9553dab75015a11ae5e914b262aa0c35019db69[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aleksey <140403460+ne6esisbka@users.noreply.github.com>
+Date:   Tue Aug 29 17:07:03 2023 +0300
+
+    Delete Calculator
+
+[33mcommit 0945ec1229d58de464ccca4e56c12b7dc269b29f[m
+Author: Aleksey <140403460+ne6esisbka@users.noreply.github.com>
+Date:   Tue Aug 29 16:40:26 2023 +0300
+
+    Create Calculator
+
+[33mcommit b0a1478d026b5cd11eb07c86ac17903aa6223675[m
+Author: Aleksey Bogachev <aleksey.bogachev2504@gmail.com>
+Date:   Thu Jul 27 11:20:23 2023 +0300
+
+    hello new commit
+
+[33mcommit a14152adb6b46ad91eb2d0e17aaa1b361382e113[m
+Author: Aleksey Bogachev <aleksey.bogachev2504@gmail.com>
+Date:   Thu Jul 27 09:49:33 2023 +0300
+
+    delete config
+
+[33mcommit 4aa1837c7503ca16a321cfb27ae84535a5906afa[m
+Author: Aleksey Bogachev <aleksey.bogachev2504@gmail.com>
+Date:   Thu Jul 27 09:44:28 2023 +0300
+
+    Create galaxy game
+
+[33mcommit 590a024d924e9a38c774233c6626fa11bafc2fa2[m
+Merge: 026b7ca 20cd9bd
+Author: Aleksey Bogachev <aleksey.bogachev2504@gmail.com>
+Date:   Wed Jul 26 09:43:22 2023 +0300
+
+    Merging new-feature into nain
+
+[33mcommit 026b7ca1f8e1e1487b407ea03483847e4e1e150b[m
+Author: Aleksey Bogachev <aleksey.bogachev2504@gmail.com>
+Date:   Wed Jul 26 09:33:35 2023 +0300
+
+    Changed made in the main branch
+
+[33mcommit 20cd9bde1c34e2b32833818aab4886b9cba74e06[m
+Author: Aleksey Bogachev <aleksey.bogachev2504@gmail.com>
+Date:   Tue Jul 25 16:58:42 2023 +0300
+
+    MOdifiedfourth file in the feature branch
+
+[33mcommit 3b93b1ca05c52850db0c9cfa1487d8be398a40ed[m
+Author: Aleksey Bogachev <aleksey.bogachev2504@gmail.com>
+Date:   Tue Jul 25 16:53:36 2023 +0300
+
+    new file in the feature branch
+
+[33mcommit f57adaa73c1866136851bea010cf4e19f9e13b32[m
+Author: Aleksey Bogachev <aleksey.bogachev2504@gmail.com>
+Date:   Tue Jul 25 13:34:13 2023 +0300
+
+    Second commit
+
+[33mcommit 02486e10af24faadc570e4c10f52c550d57338eb[m
+Author: Aleksey Bogachev <aleksey.bogachev2504@gmail.com>
+Date:   Tue Jul 25 12:47:04 2023 +0300
+
+    First commit
