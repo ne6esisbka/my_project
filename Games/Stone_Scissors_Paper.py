@@ -1,0 +1,3 @@
+stone
+  scissors
+  paper
